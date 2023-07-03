@@ -1,0 +1,1 @@
+Following are external tools that can be used in conjunction with Hats Protocol, but are not directly associated with Hats.

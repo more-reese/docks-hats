@@ -1,0 +1,3 @@
+In this conversation we dug into the key components of organizational structures, including both the roles & authorities architecture as well as the relational structure, which aspects of org structure can be "forked", and how we can present language and UI/UX in such a way that DAOs and their contributors can see the full picture. And a whole lot more.
+
+[Here is the recording](https://around.co/playback/fbd1a3b8-65f6-4a12-8a8e-0b9f1c11ab00?sharedKey=c3c4cdde-5fdd-45ff-980b-06fb275f8814) of the conversation, which includes a transcript.

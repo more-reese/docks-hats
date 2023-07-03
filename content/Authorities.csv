@@ -1,0 +1,12 @@
+App/ Platform,Details,Token Gate
+"Commonwealth","Specify who can interact with threads under specific topics",Native
+"Coordinape","Access to Coordinape circle",Native
+"Discord","Discord role; access to specific channels",Guild|Collab.land
+"Telegram","Access to specific channels",Guild|Collab.land
+"Google Workspace","Read/ write/ comment permissions for docs, sheets, slides",Guild
+"Github","Access to private repositories",Guild
+"POAP","Authority: mint POAP; Requirement: Hold POAP",Guild
+"Charmverse","Granular read/write/comment access for each page as well as the forum and proposals",Native
+"Snapshot","Ability to vote on specific proposals and have special voting weight",Native
+"Wonderverse","",Native
+"Safe multisig","via HatSignerGate: provides Safe multisig signing authority for a given set of Hats",Smart contract
